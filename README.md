@@ -1,0 +1,4 @@
+CrazyFile
+=========
+
+training
